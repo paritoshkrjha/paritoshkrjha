@@ -111,9 +111,9 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
+<!--<br clear="both">-->
 
-<img src="https://raw.githubusercontent.com/paritoshkrjha/paritoshkrjha/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/paritoshkrjha/paritoshkrjha/output/snake.svg" alt="Snake animation" />-->
 
-###
+
 
