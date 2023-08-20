@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="center"><Hello, World/>👋!<br> My name is Paritosh Kumar Jha and I love working with Flutter and React 😇</h2>
+<h2 align="center">Hello, World👋!<br> My name is Paritosh Kumar Jha and I love working with Flutter and React 😇</h2>
 
 ###
 
