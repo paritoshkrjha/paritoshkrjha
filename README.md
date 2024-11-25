@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">-📚 Student at Bharati Vidyapeeth College of Engineering.<br>-🌱 I'm currently learning Flutter and React.<br>-⚡ Link to my portfolio : https://paritoshkrjha.vercel.app/</p>
+<p align="left">-📚 Student at Bharati Vidyapeeth College of Engineering.<br>-🌱 I'm currently learning Angular.<br>-⚡ Link to my portfolio : https://paritoshkrjha.vercel.app/</p>
 
 ###
 
